@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <div>
-      <router-link to="/$app">跳转链接d</router-link>
+      <router-link to="/$app">跳转链接dd</router-link>
     </div>
     <!--路由容器-->
     <div>
